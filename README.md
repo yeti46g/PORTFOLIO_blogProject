@@ -32,9 +32,9 @@ Libraries need : numpy, pandas, matplotlib, and seaborn.
 
 The objective is to quickly abtain an understanding of the real-estate market of Ames, Iowa, and come up with an estimate of budget for buying a home in the town. The following three business questions are formulated to guide the analysis.
 
-(1) How expensive is this town to live in?
-(2) Which are the popular neighborhoods?
-(3) How much should I budget for if I were to buy a house in Ames that fits my preferences during that time period?
+	(1) How expensive is this town to live in?
+	(2) Which are the popular neighborhoods?
+	(3) How much should I budget for if I were to buy a house in Ames that fits my preferences during that time period?
 
 ### 4. Data Understanding
 
